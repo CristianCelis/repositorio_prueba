@@ -1,2 +1,2 @@
-# repositorio_prueba
-repositorio de prueba inicial
+# java_fundamentos
+este es mi repositorio de estudio de java
